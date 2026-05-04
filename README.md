@@ -21,7 +21,7 @@ How to use APIs and how to design cleaner and better-structured systems.
 ### Most used languages
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HauntedCrusader&layout=compact&theme=github_dark&hide_border=true&hide_title=true&bg_color=00000000&card_width=1000"
+  src="https://github-readme-stats-clone-tau.vercel.app/api/top-langs/?username=HauntedCrusader&layout=compact&theme=github_dark&hide_border=true&hide_title=true&bg_color=00000000&card_width=1000"
  />
 
 
